@@ -1,1 +1,1 @@
-Git 0x03 task
+0x03. Git task
